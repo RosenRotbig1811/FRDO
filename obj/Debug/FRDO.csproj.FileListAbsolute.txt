@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\FRDO\FRDO\bin\Debug\FRDO.exe.config
+C:\Users\Admin\source\repos\FRDO\FRDO\bin\Debug\FRDO.exe
+C:\Users\Admin\source\repos\FRDO\FRDO\bin\Debug\FRDO.pdb
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.Form1.resources
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.Properties.Resources.resources
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.exe
+C:\Users\Admin\source\repos\FRDO\FRDO\obj\Debug\FRDO.pdb
